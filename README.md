@@ -273,7 +273,7 @@ No credentials or secrets should be committed to GitHub.
 
 ---
 
-## 11. Resume-ready project summary
+## 11. project summary
 
 **AI-Powered Weekly Business Report Automation Pipeline**
 
