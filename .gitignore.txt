@@ -1,0 +1,25 @@
+# Local secrets
+config_local.py
+ai_weekly_service_account.json
+service_account.json
+.env
+.env.*
+*.key
+*.pem
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# Logs
+pipeline.log
+*.log
