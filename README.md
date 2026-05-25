@@ -7,12 +7,13 @@ This project is designed as a portfolio-quality example of how to combine data a
 ## Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Scheduler](https://img.shields.io/badge/Scheduler-6C63FF?style=for-the-badge&logo=clockify&logoColor=white)
+![Gmail SMTP](https://img.shields.io/badge/Gmail_SMTP-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Scheduler](https://img.shields.io/badge/Time_Scheduler-6C63FF?style=for-the-badge&logo=clockify&logoColor=white)
 ---
 
 ## 1. Problem this solves
